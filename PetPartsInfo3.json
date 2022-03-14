@@ -1,0 +1,13 @@
+{
+ "PetPartsInfo":[
+  {
+    "EyeIndex":"1",
+	  "EarIndex":"1",
+	  "HornIndex":"1",
+	  "BackIndex":"1",
+	  "MouthIndex":"1",
+	  "TailIndex":"1",
+    "BodyColorIndex":"0"
+  }
+ ]
+}
